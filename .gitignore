@@ -3,3 +3,4 @@
 Debug/
 testdata/
 !.gitignore
+test

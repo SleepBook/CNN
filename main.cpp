@@ -626,7 +626,8 @@ int run_cpu()
 	return 0;
 }
 
-void main()
+int main()
 {
 	run_cpu();
+	return 0;
 }
